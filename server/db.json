@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "In hybrid moments, give me a moment",
+            "lastReply": "1997-05-01"
+        },
+        {
+            "id": 2,
+            "title": "In moments, give hybrid me a moment",
+            "lastReply": "1937-05-01"
+        },
+        {
+            "id": 3,
+            "title": "momentsIn hybrid , give me a moment",
+            "lastReply": "1999-05-01"
+        }
+    ]
+}
